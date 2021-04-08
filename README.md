@@ -7,4 +7,4 @@ My discord username is `aNotsoSilentJungle399#4984`
 
 ![SilentJungle's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentJungle399&show_icons=true&hide_border=true&theme=tokyonight)
 
-![](https://gitviews.asilentjungle.repl.co/)
+![Profile views](https://gpvc.arturio.dev/SilentJungle399)
